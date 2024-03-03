@@ -1,0 +1,35 @@
+/* Styles for header and navigation */
+header {
+    background-color: #4CAF50; /* Darker shade of light green */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Styles for slideshow */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+.mySlides {
+    display: none;
+}
+
+/* Content styles */
+.content {
+    padding: 20px;
+    background-color: #E8F5E9; /* Light green shade */
+    color: #333; /* Dark color for text */
+}
